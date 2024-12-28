@@ -1,0 +1,6 @@
+[submodule "uber-av3-frontend-angular"]
+	path = uber-av3-frontend-angular
+	url = git@github.com:iagomauricioo/uber-av3-frontend-angular.git
+[submodule "uber-av3-backend"]
+	path = uber-av3-backend
+	url = git@github.com:iagomauricioo/uber-av3-backend.git
