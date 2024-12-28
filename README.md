@@ -1,3 +1,7 @@
+# Forma correta de criar submodules
+### Repositórios como esse podem ser utilizados para fazer Multirepos de Microsserviços
+Pode ser clonado de forma completa com: ```git clone --recursive <url>```
+
 ```
 $ mkdir git-submodule-demo
 $ cd git-submodule-demo/
